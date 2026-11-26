@@ -1,6 +1,6 @@
 # Manifesto — `<slug>`
 
-> **Operator-owned.** Orcas treat this file as read-only unless explicitly instructed to update it.
+> **Operator-owned.** Chauffeurs treat this file as read-only unless explicitly instructed to update it.
 
 ## Core Philosophy & Principles
 - How do we build and make tradeoffs on this project?

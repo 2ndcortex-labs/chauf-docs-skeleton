@@ -1,6 +1,6 @@
 # North Star — `<slug>`
 
-> **Operator-owned.** Orcas treat this file as read-only unless explicitly instructed to update it.
+> **Operator-owned.** Chauffeurs treat this file as read-only unless explicitly instructed to update it.
 
 ## Ultimate Outcome
 - What does winning look like for this project/worker?
